@@ -1,3 +1,9 @@
+0.006   2019-07-19  Released-By: PERLANCAR; Urgency: medium
+
+	- Adjust to Perinci::Examples::Completion 0.817 (removed & renamed
+	  function).
+
+
 0.005   2019-07-06  Released-By: PERLANCAR; Urgency: medium
 
 	- Rename script peri-eg-complete-animal-choice{,-any}.
