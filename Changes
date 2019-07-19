@@ -1,3 +1,8 @@
+0.007   2019-07-19  Released-By: PERLANCAR; Urgency: medium
+
+	- Re-add peri-eg-complete-comment-fruit-any CLI.
+
+
 0.006   2019-07-19  Released-By: PERLANCAR; Urgency: medium
 
 	- Adjust to Perinci::Examples::Completion 0.817 (removed & renamed
